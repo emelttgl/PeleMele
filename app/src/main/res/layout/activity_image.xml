@@ -8,12 +8,12 @@
         tools:context=".ImageActivity">
 
     <ImageView
-            android:layout_width="0dp"
-            android:layout_height="467dp" app:srcCompat="@drawable/ic_launcher_foreground"
-            android:id="@+id/ImageV" app:layout_constraintTop_toTopOf="parent"
-            android:layout_marginTop="30dp" android:layout_marginEnd="15dp" app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintBottom_toBottomOf="parent" android:layout_marginBottom="30dp"
-            app:layout_constraintHorizontal_bias="1.0" app:layout_constraintVertical_bias="0.444"
-            android:layout_marginStart="15dp"/>
+        android:id="@+id/ImageV"
+        android:layout_width="375dp"
+        android:layout_height="667dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_launcher_foreground" />
 </androidx.constraintlayout.widget.ConstraintLayout>

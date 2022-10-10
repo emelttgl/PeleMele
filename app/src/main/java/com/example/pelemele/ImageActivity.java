@@ -19,7 +19,7 @@ public class ImageActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_image);
 
-        ImageView imgView = (ImageView) findViewById(R.id.ImageV);
+        imgView = (ImageView) findViewById(R.id.ImageV);
         FileInputStream fis = null;
         try {
             fis = openFileInput("image.data");

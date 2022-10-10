@@ -50,7 +50,7 @@ public class LongActivity extends AppCompatActivity {
 
                         });
                         service.shutdown();
-                        textView.setText("En cours d'execution");
+                        textView.setText("En cours d'éxécution");
                         System.out.println("Fin thread principal");
                         progressBar.setVisibility(View.VISIBLE);
                         Toast.makeText(LongActivity.this,"Tache en cours d'execution",Toast.LENGTH_SHORT).show();
