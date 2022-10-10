@@ -1,22 +1,15 @@
 package com.example.pelemele;
 
-import android.annotation.SuppressLint;
 import android.graphics.*;
-import android.provider.ContactsContract;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
 
 
 public class SelectActivity extends AppCompatActivity {
@@ -25,8 +18,8 @@ public class SelectActivity extends AppCompatActivity {
     protected SurfaceView surfaceView;
     protected SurfaceHolder surfaceHolder;
     protected DrawRectangle dr;
-    int x0, y0, x1, y1;
-   protected RelativeLayout relativeLayout;
+    protected int x0, y0, x1, y1;
+    protected RelativeLayout relativeLayout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,7 +32,6 @@ public class SelectActivity extends AppCompatActivity {
         surfaceHolder = surfaceView.getHolder();
         surfaceView.setZOrderOnTop(true);
         surfaceHolder.setFormat(PixelFormat.TRANSPARENT);
-
 
 
         imageView.setOnTouchListener(new View.OnTouchListener() {

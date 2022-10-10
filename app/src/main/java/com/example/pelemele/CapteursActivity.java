@@ -21,15 +21,15 @@ public class CapteursActivity extends AppCompatActivity implements SensorEventLi
     protected float[] matrix=new float[9];
     protected boolean acc=false;
     protected boolean magn=false;
-    long time = 0;
-    float degre = 0f;
+    protected long time = 0;
+    protected float degre = 0f;
     protected SensorManager sensorManager;
     protected TextView textViewON,textView,textView2;
     protected Sensor accelerometre,magnetometre;
     protected Switch button;
     protected RelativeLayout relativeLayout;
     protected ImageView imageView;
-    boolean checked;
+    protected boolean checked;
     protected DrawVector draw;
     protected RotateAnimation rotation ;
 

@@ -12,7 +12,7 @@ import android.os.Bundle;
 
 public class DrawRectangle extends View {
     protected Paint paint;
-    int x,y,x1,y1;
+    protected int x,y,x1,y1;
 
 
    protected Canvas canvas;

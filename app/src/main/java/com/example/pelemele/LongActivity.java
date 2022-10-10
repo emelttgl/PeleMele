@@ -22,10 +22,10 @@ public class LongActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_long);
 
-        Lancer = (Button) findViewById(R.id.lancer);
-        progressBar =(ProgressBar)findViewById(R.id.progressBar);
+        Lancer =  findViewById(R.id.lancer);
+        progressBar =findViewById(R.id.progressBar);
         progressBar.setVisibility(View.INVISIBLE);
-        textView=(TextView)findViewById(R.id.textV);
+        textView=findViewById(R.id.textV);
 
         Lancer.setOnClickListener(new View.OnClickListener() {
             @Override
