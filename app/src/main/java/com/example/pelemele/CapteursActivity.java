@@ -132,6 +132,7 @@ public class CapteursActivity extends AppCompatActivity implements SensorEventLi
                 RotateAnimation rotation = new RotateAnimation(degre, -azimuthdegre, Animation.RELATIVE_TO_SELF, 0.5f, Animation.RELATIVE_TO_SELF, 0.5f);
                 rotation.setDuration(250);
                 imageView.startAnimation(rotation);
+                imageView.setRotation(110);
 
                 degre = -azimuthdegre;
                 time = System.currentTimeMillis();
@@ -140,6 +141,7 @@ public class CapteursActivity extends AppCompatActivity implements SensorEventLi
                 textView2.setText(x + "°");
 
             }
+
 
 
         }
