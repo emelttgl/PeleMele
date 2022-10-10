@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PeleMele</string>
+    <string name="LANCER">LANCER</string>
+    <string name="METEO">METEO</string>
+    <string name="LONGUE_MISSION">LONGUE MISSION</string>
+    <string name="BONJOUR">BONJOUR</string>
+    <string name="PHOTO">PHOTO</string>
+    <string name="CHRONOMETRE">CHRONOMETRE</string>
+    <string name="AFFICHER_IMAGE">AFFICHER IMAGE</string>
+    <string name="CONTACTS">CONTACTS</string>
+    <string name="ACCELEROMETRE">ACCELEROMETRE</string>
+    <string name="TACTILE">TACTILE</string>
+    <string name="NOM_DE_LA_VILLE">NOM DE LA VILLE</string>
+    <string name="LOCALISER">LOCALISER</string>
+    <string name="QUITTER">Quitter</string>
+    <string name="SUSPENDRE">Suspendre</string>
+</resources>

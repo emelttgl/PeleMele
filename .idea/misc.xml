@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.18336741649625085" />
+        <entry key="app/src/main/res/drawable/ic_foreground.xml" value="0.1005" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2375" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.27" />
+        <entry key="app/src/main/res/drawable/logoPeleMele_foreground.xml" value="0.127" />
+        <entry key="app/src/main/res/layout/activity_capteurs.xml" value="0.1408514492753623" />
+        <entry key="app/src/main/res/layout/activity_chronometre.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_contact.xml" value="0.16893115942028986" />
+        <entry key="app/src/main/res/layout/activity_draw_rectangle.xml" value="0.12590579710144928" />
+        <entry key="app/src/main/res/layout/activity_image.xml" value="0.12563323201621074" />
+        <entry key="app/src/main/res/layout/activity_long.xml" value="0.2158920288085937" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15867919921874998" />
+        <entry key="app/src/main/res/layout/activity_meteo.xml" value="0.13451086956521738" />
+        <entry key="app/src/main/res/layout/activity_photo.xml" value="0.17972900019590618" />
+        <entry key="app/src/main/res/layout/activity_select.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/item_contacts.xml" value="0.11639492753623189" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.25720520019531257" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.127" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.127" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/logoPeleMele.xml" value="0.1005" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/logopelemele.xml" value="0.1005" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18_PREVIEW" project-jdk-name="Android API 32 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

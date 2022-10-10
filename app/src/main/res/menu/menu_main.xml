@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/quitter"
+        android:icon="@color/ic_launcher_background"
+        android:title="@string/QUITTER" />
+    <item android:title="Chrono" android:id="@+id/chrono" android:icon="@color/teal_200"
+    />
+    <item
+        android:id="@+id/suspendre"
+        android:icon="@color/purple_200"
+        android:title="@string/SUSPENDRE" />
+</menu>

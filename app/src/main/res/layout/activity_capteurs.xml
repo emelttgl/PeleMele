@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/relativelayout"
+    tools:context=".CapteursActivity">
+
+
+    <TextView
+        android:id="@+id/textViewON"
+        android:layout_width="111dp"
+        android:layout_height="62dp"
+        android:layout_marginStart="119dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="OFF"
+        android:textSize="30sp" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="98dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="170dp"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="183dp"
+        android:layout_height="127dp"
+        android:layout_marginStart="117dp"
+        android:gravity="center"
+        android:layout_marginTop="70dp" />
+
+    <ImageView
+        android:id="@+id/imageBoussole"
+        android:layout_width="306dp"
+        android:layout_height="392dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="400dp"
+        app:srcCompat="@drawable/boussole" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="164dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="117dp"
+        android:layout_marginTop="380dp"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:text="" />
+
+</RelativeLayout>

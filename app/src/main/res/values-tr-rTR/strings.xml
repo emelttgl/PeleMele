@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PeleMele</string>
+    <string name="LANCER">LANCER</string>
+    <string name="METEO">HAVA DURUMU</string>
+    <string name="TACTILE">DOKUNMATIK</string>
+    <string name="ACCELEROMETRE">OLCU</string>
+    <string name="CONTACTS">ILETISIM</string>
+    <string name="AFFICHER_IMAGE">RESMI GOSTER</string>
+    <string name="CHRONOMETRE">KRONOMETRE</string>
+    <string name="PHOTO">FOTO</string>
+    <string name="BONJOUR">MERHABA</string>
+    <string name="LONGUE_MISSION">UZUN ATAMA</string>
+    <string name="NOM_DE_LA_VILLE">SEHIRIN ADI</string>
+    <string name="LOCALISER">YER</string>
+    <string name="QUITTER">Cikis</string>
+    <string name="SUSPENDRE">Beklet</string>
+</resources>

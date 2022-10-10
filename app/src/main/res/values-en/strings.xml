@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PeleMele</string>
+    <string name="LANCER">LAUNCH</string>
+    <string name="METEO">WEATHER</string>
+    <string name="LONGUE_MISSION">LONG TASK</string>
+    <string name="BONJOUR">HELLO</string>
+    <string name="PHOTO">PHOTO</string>
+    <string name="CHRONOMETRE">CHRONOMETER</string>
+    <string name="AFFICHER_IMAGE">SHOW PICTURE</string>
+    <string name="CONTACTS">CONTACT</string>
+    <string name="ACCELEROMETRE">ACCELEROMETER</string>
+    <string name="TACTILE">TOUCHSCREEN</string>
+    <string name="NOM_DE_LA_VILLE">NAME OF THE CITY</string>
+    <string name="LOCALISER">LOCATE</string>
+    <string name="QUITTER">Exit</string>
+    <string name="SUSPENDRE">"To suspend "</string>
+</resources>
